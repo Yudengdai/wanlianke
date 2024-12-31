@@ -1,0 +1,13 @@
+{
+  "configurations": {
+    "wanlianke": {
+      "appLocation": ".",
+      "outputLocation": "dist",
+      "appBuildCommand": "npm run build",
+      "run": "npm run serve",
+      "appDevserverUrl": "http://localhost:8080",
+      "appName": "wanlianke",
+      "resourceGroup": "wanlianke-rg"
+    }
+  }
+}
